@@ -1,2 +1,8 @@
-# Umrah-App-Admin-Panel
-A feature-rich Admin Panel for managing users, orders, and transactions in the Umrah application.  This application is designed to streamline administrative tasks for managing Umrah bookings and transactions. It provides a seamless user experience for administrators, ensuring efficient handling of orders and user assignments
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
